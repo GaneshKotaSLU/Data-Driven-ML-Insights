@@ -25,3 +25,7 @@ List your projects here with brief descriptions. Provide links to the respective
 
 1. [Project 1: Product Classification model for WISH.com](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Wish_E-Commerce-Analysis)
    - Brief description of the project and its objectives.
+
+
+
+**More Projects are yet to be added. Will be attaching more projects soon regularly.**
