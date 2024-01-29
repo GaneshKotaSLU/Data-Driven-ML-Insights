@@ -1,4 +1,4 @@
-**Wish E-commerce Product Classification Project**
+**Wish E-commerce Product Classification**
 
 **Overview:**
 
