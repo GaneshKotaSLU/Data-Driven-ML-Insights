@@ -1,48 +1,24 @@
-# Data_Driven-ML_Insights
+**Wish E-commerce Product Classification Project**
 
-# Data Driven ML Insights
+**Overview:**
 
-## Overview
+This file is in relevance to the analysis and classification models for an e-commerce dataset obtained from Kaggle, specifically focusing on the Wish platform. The primary goal of this project is to classify products as either "Good" or "Bad" based on various features, providing valuable insights for decision-makers in the e-commerce domain.
 
-This repository contains machine learning models and data analysis tasks focused on deriving insights from various datasets. The projects explore diverse aspects of data-driven decision-making using machine learning techniques.
+**Dataset:** The dataset was collected from Kaggle, and it includes information about summer products and sales on the Wish platform. Dataset Source: Wish E-commerce Dataset on Kaggle (The URL for the source of the data set is https://www.kaggle.com/datasets/jmmvutu/summer-products-and-sales-in-ecommerce-wish) Creator: Jeffrey Mvutu Mabilama
 
-## Table of Contents
+**Key Questions Explored:** 
+**Product Classification Criteria:** 
+   Identification of criteria to classify a product as "Good" or "Bad."
 
-- [Projects](#projects)
-- [Directory Structure](#directory-structure)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
+**Classification Models:** 
+   Implementation and comparison of various classification algorithms: Logistic Regression Random Forest Bagging Boosting Linear Support Vector Machine (SVM) Radial SVM
 
-## Projects
+**Analysis Summary:**
 
-List your projects here with brief descriptions. Provide links to the respective branches or directories.
+The project employs both regression and classification techniques to understand relationships between variables and classify products. Key classification models (Random Forest, Bagging, Boosting, Linear SVM, Radial SVM, Logistic Regression) are evaluated based on accuracy, specificity, and sensitivity.
 
-1. [Project 1: Machine Learning Model for XYZ](link-to-branch-or-directory)
-   - Brief description of the project and its objectives.
+**Model Performance:** 
+   **Bagging Model:** Identified as the most effective model, showcasing high accuracy (80.22%) and sensitivity (55.17%). 
+   **Variable Importance:** Top contributing factors include merchant ratings, retail price, and countries shipped to.
 
-2. [Project 2: Data Analysis on ABC Dataset](link-to-branch-or-directory)
-   - Summary of the data analysis task and key findings.
-
-## Directory Structure
-
-Explain the organization of your repository. Highlight important folders and their purposes.
-
-- `/project1`: Contains files related to Project 1.
-- `/project2`: Contains files related to Project 2.
-- `/data`: Store datasets used across projects.
-- ...
-
-## How to Use
-
-Provide instructions on how to clone, set up, and run projects locally. Include any dependencies or prerequisites.
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/Data_Driven_ML_Insights.git
-
-# Navigate to a project directory
-cd Data_Driven_ML_Insights/project1
-
-# Run the project
-python main.py
+**Future Work:** Consider additional factors for product classification, such as pricing strategies and discounts. Analyze the impact of regular prices on product classification. Feel free to explore the project and provide feedback. Happy coding!
