@@ -28,5 +28,11 @@ List your projects here with brief descriptions. Provide links to the respective
 
 2. [Project 2: Netflix's Data Visualization Dashbaord](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/DataVisualization)
    - Dashboard and appropriate relationships between different variables for the Netflix data to interpret and gain data driven insights.
+
+3. [Project 3: Animal Image Classification using EfficientNetB7](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Deep_Learning_ImageClassification)
+   - Dashboard and appropriate relationships between different variables for the Netflix data to interpret and gain data driven insights.
+
+
+
      
 **More Projects are yet to be added. Will be attaching more projects soon regularly.**
