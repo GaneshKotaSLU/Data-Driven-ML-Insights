@@ -1,32 +1,45 @@
-# Data_Driven-ML_Insights
+# Animal Classification using Deep Learning
 
-Welcome to the Data-Driven ML Insights repository
 ## Overview
 
-This repository contains machine learning models and data analysis tasks that derive insights from various datasets. The projects explore diverse aspects of data-driven decision-making using machine learning techniques. Mostly contains Data Studies (Data Exploratium).
+This document outlines the analysis and classification models for an animal image dataset using deep learning techniques. The primary objective is to classify animals based on images, employing various preprocessing and augmentation steps along with a pre-trained neural network model.
 
-## Project Highlights
+## Dataset
 
-- **Machine Learning Models:** Explore a variety of machine learning models implemented for different tasks.
-- **Data Analysis Tasks:** Dive into projects that extract meaningful insights from datasets.
+The dataset consists of animal images collected from diverse sources. The dataset is collected from Kaggle.
 
-## Usage
+https://www.kaggle.com/datasets/alessiocorrado99/animals10/data
 
-Feel free to explore the projects based on your interests. Each branch represents a different project or task, providing a modular and organized structure.
+## Data Preprocessing
 
-## Feedback
+The following steps were performed to prepare the data for model training:
 
-If you have any suggestions, find issues, or want to contribute, please open an issue or a pull request. Your feedback is highly valued!
+1. Loaded and preprocessed data using the specified file paths.
+2. Checked for corrupted images within the dataset.
+3. Displayed the distribution of labels in the image dataset.
+4. Displayed a subset of images from the dataset with their corresponding labels.
+5. Split the data into training and testing sets.
 
-Happy exploring and coding!
-## Projects
+## Model Development
 
-List your projects here with brief descriptions. Provide links to the respective branches or directories.
+The deep learning model is built using TensorFlow and Keras, incorporating transfer learning with a pre-trained EfficientNetB7 model. The model includes data augmentation layers to improve generalization.
 
-1. [Project 1: Product Classification model for WISH.com](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Wish_E-Commerce-Analysis)
-   - Developing a Classification Model for Predicting whether a product is good or bad for the organization in long run.
+1. Loaded the pre-trained EfficientNetB7 model.
+2. Built and compiled the classification model with additional layers for fine-tuning.
+3. Implemented data augmentation using TensorFlow's ImageDataGenerator.
+4. Trained the model on the training dataset with five epochs.
 
-2. [Project 2: Netflix's Data Visualization Dashbaord](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/DataVisualization)
-   - Dashboard and appropriate relationships between different variables for the Netflix data to interpret and gain data driven insights.
-     
-**More Projects are yet to be added. Will be attaching more projects soon regularly.**
+## Model Evaluation
+
+The model was evaluated on the test dataset, and predictions were generated. The evaluation includes:
+
+1. Displaying the first 5 predictions.
+2. Displaying 25 random pictures from the dataset with true and predicted labels.
+3. Displaying confusion matrix and classification report.
+
+## Dependencies
+
+Ensure the following Python libraries are installed:
+
+```bash
+pip install numpy pandas tensorflow opencv-python PIL matplotlib seaborn
