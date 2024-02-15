@@ -23,16 +23,16 @@ Happy exploring and coding!
 
 List your projects here with brief descriptions. Provide links to the respective branches or directories.
 
-1. [Project 1: Product Classification model for WISH.com](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Wish_E-Commerce-Analysis)
-   - Developing a Classification Model for Predicting whether a product is good or bad for the organization in long run.
+1. [Project 1: STARBUCKS Beverages clustering using DBSCAN and K-Means](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/blob/STARBUCKS---K-Means-and-DBSCAN-Clustering/)
+   - Clustering is performed for different Starbucks beverages based on their calories using DBSCAN and K-Means.
 
-2. [Project 2: Netflix's Data Visualization Dashbaord](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/DataVisualization)
-   - Dashboard and appropriate relationships between different variables for the Netflix data to interpret and gain data driven insights.
+2. [Project 2: Product Classification model for WISH.com](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Wish_E-Commerce-Analysis)
+   - Developing a Classification Model for Predicting whether a product is good or bad for the organization in the long run.
 
-3. [Project 3: Animal Image Classification using EfficientNetB7](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Deep_Learning_ImageClassification)
-   - Dashboard and appropriate relationships between different variables for the Netflix data to interpret and gain data driven insights.
+3. [Project 3: Netflix's Data Visualization Dashbaord](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/DataVisualization)
+   - Dashboard and appropriate relationships between different variables for the Netflix data to interpret and gain data-driven insights.
 
-
-
+4. [Project 4: Animal Image Classification using EfficientNetB7](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Deep_Learning_ImageClassification)
+   - Image classification for various animals using EfficientNetB7 (CNN).
      
-**More Projects are yet to be added. Will be attaching more projects soon regularly.**
+** -- More Projects are yet to be added. Will be attaching more projects soon regularly -- **
