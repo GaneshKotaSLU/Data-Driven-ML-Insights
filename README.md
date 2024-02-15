@@ -1,38 +1,42 @@
-# Data_Driven-ML_Insights
+# Starbucks Beverages Clustering
 
-Welcome to the Data-Driven ML Insights repository
-## Overview
+# Overview:
 
-This repository contains machine learning models and data analysis tasks that derive insights from various datasets. The projects explore diverse aspects of data-driven decision-making using machine learning techniques. Mostly contains Data Studies (Data Exploratium).
+This repository contains an analysis of Starbucks beverages using unsupervised learning techniques, including K-MEANS and DBSCAN, along with PCA for Dimensionality Reduction. The primary objective is to cluster different Starbucks beverages based on their calorie levels. This project aims to provide insights into the grouping of beverages, which can be valuable for both customers and Starbucks decision-makers.
 
-## Project Highlights
+# Dataset:
 
-- **Machine Learning Models:** Explore a variety of machine learning models implemented for different tasks.
-- **Data Analysis Tasks:** Dive into projects that extract meaningful insights from datasets.
+The dataset used in this analysis consists of information about Starbucks beverages, with a focus on calorie levels. The dataset may include details such as beverage names, ingredients, sizes, and calorie counts. The data source and details are included in the CSV file available at https://github.com/reisanar/datasets/blob/master/starbucks.csv or https://www.kaggle.com/datasets/henryshan/starbucks.
 
-## Usage
+# Key Techniques Explored:
 
-Feel free to explore the projects based on your interests. Each branch represents a different project or task, providing a modular and organized structure.
+# K-MEANS Clustering:
+Implementation of the K-MEANS algorithm to group beverages based on their similarity in calorie levels.
 
-## Feedback
+# DBSCAN (Density-Based Spatial Clustering of Applications with Noise):
+Utilization of DBSCAN for identifying clusters in the data based on the density of calorie levels.
 
-If you have any suggestions, find issues, or want to contribute, please open an issue or a pull request. Your feedback is highly valued!
+# PCA (Principal Component Analysis):
+Application of PCA for dimensionality reduction to visualize the clustered data in lower-dimensional space.
 
-Happy exploring and coding!
-## Projects
+# Analysis Summary:
 
-List your projects here with brief descriptions. Provide links to the respective branches or directories.
+The project leverages unsupervised learning techniques to uncover patterns in Starbucks beverages' calorie levels. Both K-MEANS and DBSCAN clustering methods are explored, and the results are visualized using PCA. The goal is to provide a meaningful and interpretable grouping of beverages based on their nutritional content.
 
-1. [Project 1: Product Classification model for WISH.com](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Wish_E-Commerce-Analysis)
-   - Developing a Classification Model for Predicting whether a product is good or bad for the organization in long run.
+# Methodologies used:
 
-2. [Project 2: Netflix's Data Visualization Dashbaord](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/DataVisualization)
-   - Dashboard and appropriate relationships between different variables for the Netflix data to interpret and gain data driven insights.
+K_MEANS_Clustering.
 
-3. [Project 3: Animal Image Classification using EfficientNetB7](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Deep_Learning_ImageClassification)
-   - Dashboard and appropriate relationships between different variables for the Netflix data to interpret and gain data driven insights.
+DBSCAN_Clustering.
 
+PCA_for_Dimensionality_Reduction
 
+# Data:
+The dataset contains information about Starbucks beverages, their categories, and different nutrition facts with calories.
 
-     
-**More Projects are yet to be added. Will be attaching more projects soon regularly.**
+# Results:
+The final results contain beverages grouped into different clusters based on the calories associated with them.
+
+# References:
+Shan, H. (2023). Starbucks Beverage Components. https://www.kaggle.com/datasets/henryshan/starbucks
+
