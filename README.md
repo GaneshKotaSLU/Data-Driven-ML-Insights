@@ -1,38 +1,53 @@
-# Data_Driven-ML_Insights
+# Nike Inc. Shoe Data Analysis using Hierarchical Clustering
 
-Welcome to the Data-Driven ML Insights repository
-## Overview
+# Overview:
 
-This repository contains machine learning models and data analysis tasks that derive insights from various datasets. The projects explore diverse aspects of data-driven decision-making using machine learning techniques. Mostly contains Data Studies (Data Exploratium).
+This repository contains an in-depth analysis of Nike Inc. shoes, utilizing unsupervised learning techniques, particularly Agglomerative Clustering. The primary goal is to cluster Nike shoes based on customer sentiments, discounts, reviews, and pricing. This analysis aims to provide valuable insights into customer preferences and behavior, contributing to decision-making within the Nike organization.
 
-## Project Highlights
+To extract sentiments, the LLaMa2 model is employed, facilitated by OLLaMa.
 
-- **Machine Learning Models:** Explore a variety of machine learning models implemented for different tasks.
-- **Data Analysis Tasks:** Dive into projects that extract meaningful insights from datasets.
+# Dataset:
 
-## Usage
+The dataset used for this analysis includes information about various Nike shoe varieties, focusing on customer preferences related to the brand and quality. The dataset encompasses sentiments extracted from reviews, customer ratings, discounted products, and other relevant features. The data source and details can be found in the CSV file, accessible at Nike Shoe Reviews on Kaggle.
+https://www.kaggle.com/datasets/amokunridwan/nike-shoe-reviews
 
-Feel free to explore the projects based on your interests. Each branch represents a different project or task, providing a modular and organized structure.
 
-## Feedback
+# Key Techniques Explored:
 
-If you have any suggestions, find issues, or want to contribute, please open an issue or a pull request. Your feedback is highly valued!
+   # 1. Hierarchical Clustering:
+   Implementation of Agglomerative Clustering to group Nike shoes based on customer sentiments and          preferences.
 
-Happy exploring and coding!
-## Projects
+   # 2. Sentiment Analysis:
+   Usage of the LLaMa2 model to extract sentiments from customer reviews.
 
-List your projects here with brief descriptions. Provide links to the respective branches or directories.
+# Analysis Summary:
 
-1. [Project 1: STARBUCKS Beverages clustering using DBSCAN and K-Means](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/blob/STARBUCKS---K-Means-and-DBSCAN-Clustering/)
-   - Clustering is performed for different Starbucks beverages based on their calories using DBSCAN and K-Means.
+The project employs unsupervised learning techniques to reveal patterns in customer preferences for Nike shoes. Hierarchical Clustering is the primary method used, and sentiments are extracted using the LLaMa2 model. The objective is to understand the factors influencing customer choices and provide insights for strategic decision-making within Nike.
 
-2. [Project 2: Product Classification model for WISH.com](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Wish_E-Commerce-Analysis)
-   - Developing a Classification Model for Predicting whether a product is good or bad for the organization in the long run.
+# Methodologies used:
 
-3. [Project 3: Netflix's Data Visualization Dashbaord](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/DataVisualization)
-   - Dashboard and appropriate relationships between different variables for the Netflix data to interpret and gain data-driven insights.
+1. Hierarchical Clustering (Agglomerative Clustering)
+2. Sentiment Analysis using LLaMa2
 
-4. [Project 4: Animal Image Classification using EfficientNetB7](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Deep_Learning_ImageClassification)
-   - Image classification for various animals using EfficientNetB7 (CNN).
-     
-** -- More Projects are yet to be added. Will be attaching more projects soon regularly -- **
+# Data:
+
+The dataset contains information about various Nike shoe varieties, including customer sentiments, reviews, ratings, discounts, and pricing.
+
+# Results:
+
+The analysis reveals clusters of Nike shoes based on customer sentiments, challenging the notion that pricing is the sole determinant of customer choices. Quality emerges as a significant factor, and customers consistently rate Nike shoes highly, regardless of discounts.
+
+# Business Insights:
+
+Understanding customer behavior is crucial for businesses. In the case of Nike, the findings suggest that maintaining product quality and a positive brand reputation can be more influential than merely offering discounts.
+
+# Acknowledgments:
+
+Special thanks to Ollama for providing a seamless experience with LLaMa2.
+
+# References:
+
+Kaggle Dataset: Nike Shoe Reviews
+Feel free to customize this README file further based on any additional details or specific sections you'd like to include.
+
+Amokun R. (2023). Nike Shoe Reviews. _Kaggle_. https://www.kaggle.com/datasets/amokunridwan/nike-shoe-reviews
