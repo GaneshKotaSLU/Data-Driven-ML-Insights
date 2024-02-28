@@ -41,4 +41,4 @@ List your projects here with brief descriptions. Provide links to the respective
 6. [Project 6: Animal Image Classification using EfficientNetB7](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Deep_Learning_ImageClassification)
    - Image classification for various animals using EfficientNetB7 (CNN).
      
-** -- More Projects are yet to be added. Will be attaching more projects soon regularly -- **
+## ** -- More Projects are yet to be added. Will be attaching more projects soon regularly -- **
