@@ -23,19 +23,22 @@ Happy exploring and coding!
 
 List your projects here with brief descriptions. Provide links to the respective branches or directories.
 
-1. [Project 1: STARBUCKS Beverages clustering using DBSCAN and K-Means](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/blob/STARBUCKS---K-Means-and-DBSCAN-Clustering/)
+1. [Project 2: TV Shows Recommendation System](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/blob/STARBUCKS---K-Means-and-DBSCAN-Clustering/)
+   - Recommending different TV shows that are similar to the one that the user is interested.
+  
+2. [Project 1: STARBUCKS Beverages clustering using DBSCAN and K-Means](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/blob/STARBUCKS---K-Means-and-DBSCAN-Clustering/)
    - Clustering is performed for different Starbucks beverages based on their calories using DBSCAN and K-Means.
   
-2. [Project 2: Nike Inc. Shoes Data Analysis using Hierarchical Clustering and LLaMa2](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/blob/Nike-Shoe-Data-Analysis-Hierarchical-Clustering/README.md)
+3. [Project 2: Nike Inc. Shoes Data Analysis using Hierarchical Clustering and LLaMa2](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/blob/Nike-Shoe-Data-Analysis-Hierarchical-Clustering/README.md)
    - Clustering is performed for different Nike Inc. products (shoes) based on Customers' sentiments, ratings, discounts, and other important features. LLaMa2 has been utilized to extract the sentiments.
 
-3. [Project 3: Product Classification model for WISH.com](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Wish_E-Commerce-Analysis)
+4. [Project 3: Product Classification model for WISH.com](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Wish_E-Commerce-Analysis)
    - Developing a Classification Model for Predicting whether a product is good or bad for the organization in the long run.
 
-4. [Project 4: Netflix's Data Visualization Dashbaord](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/DataVisualization)
+5. [Project 4: Netflix's Data Visualization Dashbaord](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/DataVisualization)
    - Dashboard and appropriate relationships between different variables for the Netflix data to interpret and gain data-driven insights.
 
-5. [Project 5: Animal Image Classification using EfficientNetB7](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Deep_Learning_ImageClassification)
+6. [Project 5: Animal Image Classification using EfficientNetB7](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Deep_Learning_ImageClassification)
    - Image classification for various animals using EfficientNetB7 (CNN).
      
 ** -- More Projects are yet to be added. Will be attaching more projects soon regularly -- **
