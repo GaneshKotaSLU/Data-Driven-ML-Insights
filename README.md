@@ -75,6 +75,33 @@ Happy exploration and coding!
 - K-Means
 - EfficientNetB7
 - LLaMa2
+  
 ## Installation
+1. Clone Repository
+   - git clone https://github.com/yourusername/Data_Driven-ML_Insights.git
+2. Navigate to the Project Directory:
+   - cd Data_Driven-ML_Insights
+3. Install the Required Packages:
+   - pip install -r requirements.txt
 
-Installation
+## Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
+
+## Contact
+Ganesh Kota 
+1. [Website](https://www.ganeshkota.com)
+2. [LinkedIn](www.linkedin.com/in/ganesh-kota)
+3. [Email](ganeshkota.4all@gmail.com)
+
+   
+
+
