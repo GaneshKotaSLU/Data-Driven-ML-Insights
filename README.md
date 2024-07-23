@@ -100,7 +100,7 @@ Distributed under the MIT License. See LICENSE for more information.
 Ganesh Kota 
 1. [Website](https://www.ganeshkota.com)
 2. [LinkedIn](www.linkedin.com/in/ganesh-kota)
-3. [Email](ganeshkota.4all@gmail.com)
+3. **Email:** ganeshkota.4all@gmail.com
 
    
 
