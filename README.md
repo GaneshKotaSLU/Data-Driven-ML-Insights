@@ -42,7 +42,7 @@ Happy exploration and coding!
 * [STARBUCKS Beverages clustering using DBSCAN and K-Means](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/blob/STARBUCKS---K-Means-and-DBSCAN-Clustering/)
    - Clustering is performed for different Starbucks beverages based on their calories using DBSCAN and K-Means.
 
-* [TV Shows Recommendation System](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/blob/TV-Show-Recommendation-System/TV_Shows_Recommendation_System%20(1).ipynb)
+* [TV Shows Recommendation System](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/TV-Show-Recommendation-System)
    - Recommending different TV shows that are similar to the one that the user is interested.
   
 * [Nike Inc. Shoes Data Analysis using Hierarchical Clustering and LLaMa2](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/blob/Nike-Shoe-Data-Analysis-Hierarchical-Clustering/README.md)
