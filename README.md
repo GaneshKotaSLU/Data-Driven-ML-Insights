@@ -34,9 +34,8 @@ Happy exploration and coding!
 ## Projects
 
 * [Customer Churn Prediction: A Comparative Analysis of Models with and without Sentiment Analysis](https://github.com/GaneshKotaSLU/Customer-Churn-Prediction.git)
-   * ## Overview of the Study:
-     
-     **The core purpose of this study is to find the impact of Sentiment Analysis in predicting customer churn for the e-commerce industry by employing different predictive models.
+
+     - he core purpose of this study is to find the impact of Sentiment Analysis in predicting customer churn for the e-commerce industry by employing different predictive models.
      Furthermore, the study is also focused on observing which model is best in a more accurate prediction for determining the churn rate of customers.**
    
 
@@ -59,3 +58,23 @@ Happy exploration and coding!
    - Image classification for various animals using EfficientNetB7 (CNN).
      
 ## ** -- More Projects are yet to be added. Will be attaching more projects soon -- **
+
+## Technologies Used
+
+- Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- TensorFlow/Keras
+- Matplotlib
+- Seaborn
+- SQL
+- Tableau
+- Power BI
+- DBSCAN
+- K-Means
+- EfficientNetB7
+- LLaMa2
+## Installation
+
+Installation
