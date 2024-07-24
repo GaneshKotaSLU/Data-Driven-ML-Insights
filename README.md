@@ -2,7 +2,7 @@
 Welcome to the Data-Driven ML Insights repository!
 
 ## Overview
-This repository contains a collection of machine learning models and data analysis tasks that derive insights from various datasets. The projects explore diverse aspects of data-driven decision-making using machine learning techniques, primarily focusing on extensive data exploration.
+This repository contains a collection of machine learning models and data analysis tasks that derive insights from various datasets. The projects explore diverse aspects of data-driven decision-making using machine learning techniques, primarily focusing on extensive data exploration. Each project is assigned to a separate respository which contains even more information of the project.
 
 ## Table of Contents
 - [Project Highlights](#project-highlights)
