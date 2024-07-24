@@ -29,25 +29,28 @@ Happy exploration and coding!
 
 ## Projects
 
-- ### Customer Churn Prediction: A Comparative Analysis of Models with and without Sentiment Analysis
+- ### [Customer Churn Prediction: A Comparative Analysis of Models with and without Sentiment Analysis](https://github.com/GaneshKotaSLU/Customer-Churn-Prediction.git)
+
      The core purpose of this study is to find the impact of Sentiment Analysis in predicting customer churn for the e-commerce industry by employing different predictive models. Furthermore, the study is also focused on      observing which model is best in a more accurate prediction for determining the churn rate of customers.
 
-- ### STARBUCKS Beverages Clustering using DBSCAN and K-Means
+- ### [STARBUCKS Beverages clustering using DBSCAN and K-Means](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/blob/STARBUCKS---K-Means-and-DBSCAN-Clustering/)
      Clustering is performed for different Starbucks beverages based on their calories using DBSCAN and K-Means.
 
-- ### TV Shows Recommendation System
+- ### [TV Shows Recommendation System](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/TV-Show-Recommendation-System)
      Recommending different TV shows that are similar to the one that the user is interested in.
 
-- ### Nike Inc. Shoes Data Analysis using Hierarchical Clustering and LLaMa2
+- ### [Nike Inc. Shoes Data Analysis using Hierarchical Clustering and LLaMa2](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/blob/Nike-Shoe-Data-Analysis-Hierarchical-Clustering/README.md)
+
      Clustering is performed for different Nike Inc. products (shoes) based on Customers' sentiments, ratings, discounts, and other important features. LLaMa2 has been utilized to extract the sentiments.
 
-- ### Product Classification Model for WISH.com
+- ### [Product Classification model for WISH.com](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Wish_E-Commerce-Analysis)
+
      Developing a Classification Model for Predicting whether a product is good or bad for the organization in the long run.
 
-- ### Netflix's Data Visualization Dashboard
+- ### [Netflix's Data Visualization Dashbaord](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/DataVisualization)
      Dashboard and appropriate relationships between different variables for the Netflix data to interpret and gain data-driven insights.
 
-- ### Animal Image Classification using EfficientNetB7
+- ### [Animal Image Classification using EfficientNetB7](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Deep_Learning_ImageClassification)
      Image classification for various animals using EfficientNetB7 (CNN).
 
 **-- More Projects are yet to be added. Will be attaching more projects soon --**
