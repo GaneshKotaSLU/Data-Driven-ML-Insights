@@ -1,4 +1,4 @@
-# Data_Driven-ML-Insights
+# Data-Driven-ML-Insights
 Welcome to the Data-Driven ML Insights repository!
 
 ## Overview
