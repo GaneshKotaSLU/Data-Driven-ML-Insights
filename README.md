@@ -77,12 +77,18 @@ Happy exploration and coding!
 - LLaMa2
   
 ## Installation
-1. Clone Repository
-   - git clone https://github.com/yourusername/Data_Driven-ML_Insights.git
-2. Navigate to the Project Directory:
-   - cd Data_Driven-ML_Insights
-3. Install the Required Packages:
-   - pip install -r requirements.txt
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd Data_Driven-ML_Insights
+    ```
+3. Install the required packages:
+    ```sh
+    pip install -r requirements.txt
+    ```
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
