@@ -100,8 +100,8 @@ Distributed under the MIT License. See LICENSE for more information.
 Ganesh Kota 
 1. [Website](https://www.ganeshkota.com)
 2. [LinkedIn](https://www.linkedin.com/in/ganesh-kota/)
-3. **Email:** ganeshkota.4all@gmail.com
+3. [Tableau](https://public.tableau.com/app/profile/ganesh.kota2132/vizzes)
+4. **Email:** ganeshkota.4all@gmail.com
 
-   
 
 
