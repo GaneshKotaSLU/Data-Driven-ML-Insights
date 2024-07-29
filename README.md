@@ -29,7 +29,7 @@ Happy exploration and coding!
 
 ## Case-Work
 
-- ### [US State Wise Wages Analysis using Azure ML](https://github.com/GaneshKotaSLU/Azure-ML---US-Wage-Regression-Analysis/blob/main/README.md)
+- ### [US State Wise Employee Wages Analysis using Azure Machine Learning](https://github.com/GaneshKotaSLU/Azure-ML---US-Wage-Regression-Analysis/blob/main/README.md)
   This project performs the regression analysis of the Wages of the employees all around US considering different features like the employee industry, area, state, ... etc to find out how the wages are being affected with different features. Which are most critical factors contributing to the variation in wages are also studied.
 
 - ### [Customer Churn Prediction: A Comparative Analysis of Models with and without Sentiment Analysis](https://github.com/GaneshKotaSLU/Customer-Churn-Prediction.git)
