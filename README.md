@@ -17,7 +17,7 @@ This repository contains a collection of machine learning models and data analys
 
 ## Project Highlights
 - **Machine Learning Models**: Explore a variety of machine learning models implemented for different tasks.
-- **Data Analysis Tasks**: Dive into projects that extract meaningful insights from datasets.
+- **Visual Analysis**: Dive into projects that extract meaningful insights visually.
 
 ## Usage
 Feel free to explore the projects based on your interests. Each branch represents a different project or task, providing a modular and organized structure.
