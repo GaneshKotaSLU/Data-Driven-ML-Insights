@@ -27,36 +27,34 @@ If you have any suggestions, find issues, or want to contribute, please open an 
 
 Happy exploration and coding!
 
-## Case-Work
+## Project Folders
 
-- ### [US State Wise Employee Wages Analysis using Azure Machine Learning](https://github.com/GaneshKotaSLU/Azure-ML---US-Wage-Regression-Analysis/blob/main/README.md)
+### [US State Wise Employee Wages Analysis using Azure Machine Learning](https://github.com/GaneshKotaSLU/Data-Driven-ML-Insights/tree/9d5bcf105dafdab5d2d7c52d41aa5eb15bc8aeab/AZURE%20ML%20based%20Regression%20Analysis)
   This project performs the regression analysis of the Wages of the employees all around US considering different features like the employee industry, area, state, ... etc to find out how the wages are being affected with different features. Which are most critical factors contributing to the variation in wages are also studied.
 
-- ### [Customer Churn Prediction: A Comparative Analysis of Models with and without Sentiment Analysis](https://github.com/GaneshKotaSLU/Customer-Churn-Prediction.git)
+### [Customer Churn Prediction: A Comparative Analysis of Models with and without Sentiment Analysis](https://github.com/GaneshKotaSLU/Data-Driven-ML-Insights/tree/9d5bcf105dafdab5d2d7c52d41aa5eb15bc8aeab/Customer%20Churn%20with%20and%20without%20Sentiment%20Analysis)
 
      The core purpose of this study is to find the impact of Sentiment Analysis in predicting customer churn for the e-commerce industry by employing different predictive models. Furthermore, the study is also focused on      observing which model is best in a more accurate prediction for determining the churn rate of customers.
 
-- ### [STARBUCKS Beverages clustering using DBSCAN and K-Means](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/blob/STARBUCKS---K-Means-and-DBSCAN-Clustering/)
+### [STARBUCKS Beverages clustering using DBSCAN and K-Means](https://github.com/GaneshKotaSLU/Data-Driven-ML-Insights/tree/9d5bcf105dafdab5d2d7c52d41aa5eb15bc8aeab/Starbucks%20Beverage%20Analysis)
      Clustering is performed for different Starbucks beverages based on their calories using DBSCAN and K-Means.
 
-- ### [TV Shows Recommendation System](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/TV-Show-Recommendation-System)
+### [TV Shows Recommendation System](https://github.com/GaneshKotaSLU/Data-Driven-ML-Insights/tree/9d5bcf105dafdab5d2d7c52d41aa5eb15bc8aeab/TV%20SHOW%20RECOMMENDATIONS%20SYSTEM)
      Recommending different TV shows that are similar to the one that the user is interested in.
 
-- ### [Nike Inc. Shoes Data Analysis using Hierarchical Clustering and LLaMa2](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/blob/Nike-Shoe-Data-Analysis-Hierarchical-Clustering/README.md)
+### [Visual Analytics](https://github.com/GaneshKotaSLU/Data-Driven-ML-Insights/tree/9d5bcf105dafdab5d2d7c52d41aa5eb15bc8aeab/Visual-Analytics-main)
+    This repository is a collection of diverse data visualizations and analytics projects across multiple domains. Each project is designed to uncover trends, patterns, and insights using cutting-edge visualization tools like Power BI, Tableau, R and Python
+
+### [Nike Inc. Shoes Data Analysis using Hierarchical Clustering and LLaMa2](https://github.com/GaneshKotaSLU/Data-Driven-ML-Insights/tree/9d5bcf105dafdab5d2d7c52d41aa5eb15bc8aeab/NIKE%20SHOES%20ANALYTICAL%20INSIGHTS)
 
      Clustering is performed for different Nike Inc. products (shoes) based on Customers' sentiments, ratings, discounts, and other important features. LLaMa2 has been utilized to extract the sentiments.
 
-- ### [Product Classification model for WISH.com](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Wish_E-Commerce-Analysis)
+### [Product Classification model for WISH.com](https://github.com/GaneshKotaSLU/Data-Driven-ML-Insights/tree/9d5bcf105dafdab5d2d7c52d41aa5eb15bc8aeab/E-commerce%20Analysis%20for%20WISH)
 
      Developing a Classification Model for Predicting whether a product is good or bad for the organization in the long run.
 
-- ### [Netflix's Data Visualization Dashbaord](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/DataVisualization)
-     Dashboard and appropriate relationships between different variables for the Netflix data to interpret and gain data-driven insights.
-
-- ### [Animal Image Classification using EfficientNetB7](https://github.com/GaneshKotaSLU/Data_Driven-ML_Insights/tree/Deep_Learning_ImageClassification)
+### [Animal Image Classification using EfficientNetB7](https://github.com/GaneshKotaSLU/Data-Driven-ML-Insights/tree/9d5bcf105dafdab5d2d7c52d41aa5eb15bc8aeab/Animal%20Image%20Classfication)
      Image classification for various animals using EfficientNetB7 (CNN).
-
-**-- More Projects are yet to be added. Will be attaching more projects soon --**
 
 ## Technologies Used
 - Python
@@ -82,28 +80,18 @@ Happy exploration and coding!
     ```sh
     cd Data_Driven-ML_Insights
     ```
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch 
+3. Commit your Changes
+4. Push to the Branch
 5. Open a Pull Request
 
 ## License
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/GaneshKotaSLU/Data-Driven-ML-Insights/blob/9d5bcf105dafdab5d2d7c52d41aa5eb15bc8aeab/LICENSE) for more information.
 
-## Contact
-**Ganesh Kota**
+## Personal Blogs/information
 1. [Website](https://www.ganeshkota.com)
 2. [LinkedIn](https://www.linkedin.com/in/ganesh-kota/)
-3. [Tableau](https://public.tableau.com/app/profile/ganesh.kota2132/vizzes)
-4. **Email:** ganeshkota.4all@gmail.com
-
-
