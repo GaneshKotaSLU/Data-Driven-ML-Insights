@@ -8,12 +8,12 @@ This repository contains a collection of machine learning models and data analys
 - [Project Highlights](#project-highlights)
 - [Usage](#usage)
 - [Feedback](#feedback)
-- [Projects](#projects)
+- [Project Directories](#project-directories)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+- [Website](#website)
 
 ## Project Highlights
 - **Machine Learning Models**: Explore a variety of machine learning models implemented for different tasks.
@@ -27,7 +27,7 @@ If you have any suggestions, find issues, or want to contribute, please open an 
 
 Happy exploration and coding!
 
-## Project Folders
+## Project Directories
 
 ### [US State Wise Employee Wages Analysis using Azure Machine Learning](https://github.com/GaneshKotaSLU/Data-Driven-ML-Insights/tree/9d5bcf105dafdab5d2d7c52d41aa5eb15bc8aeab/AZURE%20ML%20based%20Regression%20Analysis)
   This project performs the regression analysis of the Wages of the employees all around US considering different features like the employee industry, area, state, ... etc to find out how the wages are being affected with different features. Which are most critical factors contributing to the variation in wages are also studied.
@@ -92,6 +92,6 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 Distributed under the MIT License. See [LICENSE](https://github.com/GaneshKotaSLU/Data-Driven-ML-Insights/blob/9d5bcf105dafdab5d2d7c52d41aa5eb15bc8aeab/LICENSE) for more information.
 
-## Personal Blogs/information
+## Website
 1. [Website](https://www.ganeshkota.com)
 2. [LinkedIn](https://www.linkedin.com/in/ganesh-kota/)
