@@ -6,7 +6,19 @@ Welcome to the Visual-Analytics repository! This repository is a collection of d
 
 ## Projects Included
 
-### 1. Adidas Shoe Data Analysis
+### 1. Retail Sales Performance Analysis
+Description: A comprehensive multi-dimensional retail sales analysis dashboard built with Power BI. Provides actionable business intelligence across product categories, customer segments, and geographical regions.
+
+Key Dashboards:
+
+Sales Performance by Segment
+Regional Distribution Analysis
+Product Category Insights
+Temporal Sales Trends
+
+Folder: Sales report  
+
+### 2. Adidas Shoe Data Analysis
 
   Description: A comprehensive analysis of Adidas shoe data collected via ethical web scraping. Highlights include pricing strategies, stock availability, and regional trends.
 
@@ -18,7 +30,7 @@ Welcome to the Visual-Analytics repository! This repository is a collection of d
 
 * Folder: ADIDAS
 
-### 2. Starbucks Beverage Analysis
+### 3. Starbucks Beverage Analysis
 
   Description: Visualizations of Starbucks beverage data to explore pricing, popularity, and seasonal trends.
 
@@ -32,7 +44,7 @@ Welcome to the Visual-Analytics repository! This repository is a collection of d
 
 * Folder: STARBUCKS
 
-### 3. Amazon Sales Analysis
+### 4. Amazon Sales Analysis
 
   Description: Insights into Amazon's sales data, focusing on product categories, regional performance, and revenue trends.
 
@@ -46,7 +58,7 @@ Welcome to the Visual-Analytics repository! This repository is a collection of d
 
 * Folder: Amazon Sales
 
-### 4. Netflix Viewing Trends
+### 5. Netflix Viewing Trends
 
   Description: Analyzes Netflix data to reveal trends in popular genres, viewing habits, and content ratings.
 
@@ -60,7 +72,7 @@ Welcome to the Visual-Analytics repository! This repository is a collection of d
 
 * Folder: NETFLIX
 
-### 5. Employment vs. Salary Analysis
+### 6. Employment vs. Salary Analysis
 
   Description: Explores the relationship between employment levels and salaries across various industries and roles.
 
@@ -77,6 +89,7 @@ Welcome to the Visual-Analytics repository! This repository is a collection of d
 ### Repository Structure
 
     Visual-Analytics/
+      ├── Sales Report (Retail Sales Analysis)/               # Visual Analysis for Retail Sales
       ├── ADIDAS/                     # Adidas data visualizations
       ├── STARBUCKS/                  # Starbucks beverage analysis
       ├── Amazon Sales/               # Amazon sales insights
