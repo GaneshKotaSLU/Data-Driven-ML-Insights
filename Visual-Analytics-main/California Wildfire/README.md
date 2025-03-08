@@ -87,7 +87,7 @@ This dashboard solution provides critical insights for disaster management:
 
 1. Clone this repository:
    git clone https://github.com/ganesh-kota/california-wildfire-analysis.git
-2. Open the `California_Wildfire_Dashboard.pbix` file in Power BI Desktop
+2. Open the `california_wildfire_analysis.pbix` file in Power BI Desktop
 3. Refresh the data connections if necessary
 
 ### Usage Guide
