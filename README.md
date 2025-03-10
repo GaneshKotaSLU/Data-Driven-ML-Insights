@@ -77,29 +77,30 @@ Real-World Applications: Projects addressing practical business challenges in e-
 Customer Segmentation & Retention Analysis
 Status: ✅ Completed | Complexity: 🔴 High | Business Impact: 💹 Very High
 A comprehensive end-to-end analysis implementing customer segmentation and churn prediction using the Online Retail II dataset. This project provides actionable insights for targeted customer retention strategies to maximize customer lifetime value and optimize marketing efforts.
-    <details>
-      <summary>Project Structure</summary>
-  
-        customer_segmentation_project/
-        ├── notebooks/
-        │   ├── 01_data_acquisition_preparation.ipynb
-        │   ├── 02_exploratory_data_analysis.ipynb
-        │   ├── 03_rfm_analysis.ipynb
-        │   ├── 04_customer_segmentation.ipynb
-        │   ├── 05_churn_prediction.ipynb
-        │   ├── 06_customer_lifetime_value.ipynb
-        │   └── 07_strategic_recommendations.ipynb
-        ├── data/
-        │   ├── raw/
-        │   └── processed/
-        ├── utils/
-        │   ├── __init__.py
-        │   ├── preprocessing.py
-        │   ├── visualization.py
-        │   └── evaluation.py
-        ├── README.md
-        └── requirements.txt
-    </details>
+  <details>
+    <summary>  Project Structure  </summary>
+            
+           customer_segmentation_project/
+            ├── notebooks/
+            │   ├── 01_data_acquisition_preparation.ipynb
+            │   ├── 02_exploratory_data_analysis.ipynb
+            │   ├── 03_rfm_analysis.ipynb
+            │   ├── 04_customer_segmentation.ipynb
+            │   ├── 05_churn_prediction.ipynb
+            │   ├── 06_customer_lifetime_value.ipynb
+            │   └── 07_strategic_recommendations.ipynb
+            ├── data/
+            │   ├── raw/
+            │   └── processed/
+            ├── utils/
+            │   ├── __init__.py
+            │   ├── preprocessing.py
+            │   ├── visualization.py
+            │   └── evaluation.py
+            ├── README.md
+            └── requirements.txt
+          
+  </details>
 
 Key Techniques: RFM Analysis, K-Means Clustering, Random Forest, XGBoost, Customer Lifetime Value Prediction
 Key Results:
@@ -232,6 +233,7 @@ Implemented progressive learning technique for rare species
 #### 🏗️ Repository Architecture
 
 This repository follows a structured organization to facilitate navigation and understanding:
+```mermaid
 graph TD
 
     A[Data-Driven-ML-Insights] --> B[Project Directories]
@@ -249,7 +251,7 @@ graph TD
         D --> L[Installation Guides]
         D --> M[Project Summaries]
         D --> N[Contributing Guidelines]
-
+```
 #### 🛠️ Technologies Used
 
 <div align="center">
