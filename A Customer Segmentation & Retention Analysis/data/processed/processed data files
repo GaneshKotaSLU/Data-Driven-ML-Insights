@@ -1,0 +1,8 @@
+This contains all the below files.
+
+churn_prediction.csv
+customer_clusters.csv
+customer_lifetime_value.csv
+customer_metrics.csv
+retention_priority_customers.csv
+rfm_data.csv
